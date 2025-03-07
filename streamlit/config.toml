@@ -1,6 +1,0 @@
-[theme]
-primaryColor = "#FF8C00"  # Burnt Orange
-backgroundColor = "#FFF8DC"  # Cornsilk (a light gold-like color)
-secondaryBackgroundColor = "#FFFFFF"  # White
-textColor = "#333333"  # Dark Gray
-font = "Plus Jakarta Sans"
